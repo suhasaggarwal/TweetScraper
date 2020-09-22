@@ -64,3 +64,6 @@ Keeping the crawler up to date requires continuous efforts, we thank all the [co
 
 # License #
 TweetScraper is released under the [GNU GENERAL PUBLIC LICENSE, Version 2](https://github.com/jonbakerfish/TweetScraper/blob/master/LICENSE)
+
+#Application from moment based system designs perspective.
+One application can be in CMPs which are used for serving personalised creatives and are integrated with DMPs and Adservers.
